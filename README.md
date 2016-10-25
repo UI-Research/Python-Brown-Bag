@@ -13,4 +13,8 @@ Followed by:
 
 Where you replace the path to the notebook (e.g. d:\users\jlevy...) with the path to your local notebook.  It will then open the presentation in your browser.
 
-For Python questions, please feel free to contact the Research Programming team or the author directly, JLevy@urban.org.  Stay tuned for information on the forthcoming Python Users Group!
+  - To get Python installed on your system, email helpdesk@urban.org and ask for version 3.5 to be installed on your computer from here: https://www.continuum.io/downloads
+
+  - For Python questions, please feel free to contact the Research Programming team or the author directly, JLevy@urban.org.  
+  
+  - Stay tuned for information on the forthcoming Python Users Group!
