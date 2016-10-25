@@ -9,6 +9,6 @@ To build the actual slideshow from the presentation, from a command line (that i
 	
 Followed by:
 
-    jupyter nbconvert --to slides d:\users\jlevy\downloads\pythonbb_presentation.ipynb --post serve --reveal-prefix "http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0"
+    jupyter nbconvert --to slides d:\users\jlevy\downloads\pythonbb_presentation.ipynb --post serve--reveal-prefix "http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0"
 
 Where you replace the path to the notebook (e.g. d:\users\jlevy...) with the path to your local notebook.  It will then open the presentation in your browser.
